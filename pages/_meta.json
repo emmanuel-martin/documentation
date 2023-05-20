@@ -1,10 +1,8 @@
 {
     "index": "Introduction",
-    "about": {
-        "title": "Blogs",
-        "type": "page",
-        "href": "https://blog.emmanuel.codes",
-        "newWindow": true
+    "--": {
+        "type": "separator",
+        "title": "Get Started"
     },
     "branding": {
         "title": "Branding"

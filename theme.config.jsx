@@ -3,10 +3,12 @@ import { DocsThemeConfig, useConfig } from 'nextra-theme-docs'
 import { useRouter } from 'next/router'
 
 export default {
-  logo: <span><b>Documentation</b> | <span style={{fontSize: '12px'}}>Emmanuel Martin.</span></span>,
+  logo: <span><b>Guides</b> | <span style={{fontSize: '12px'}}>Emmanuel Martin.</span></span>,
   project: {
     link: 'https://github.com/emmanuel-martin/documentation/tree/main/pages',
   },
+  nextLinks: true,
+  prevLinks: true,
   docsRepositoryBase: 'https://github.com/emmanuel-martin/documentation/tree/main/pages',
   useNextSeoProps() {
     const { asPath } = useRouter()
@@ -33,6 +35,19 @@ export default {
         />
       </>
     )
+  },
+  sidebar: {
+    titleComponent({ title, type }) {
+      if (type === 'separator') {
+        return (
+          <div>{title}</div>
+        )
+      }
+      if (title === 'Branding') {
+        return <> {title}</>
+      }
+      return <>{title}</>
+    }
   },
   footer: {
     text: "A project by Emmanuel Martin",
