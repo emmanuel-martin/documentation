@@ -52,4 +52,10 @@ export default {
   footer: {
     text: "A project by Emmanuel Martin",
   },
+  feedback: {
+    content: null
+  },
+  editLink: {
+    component: null
+  }
 }

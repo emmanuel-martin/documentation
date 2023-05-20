@@ -2,21 +2,9 @@
     "index": "Introduction",
     "--": {
         "type": "separator",
-        "title": "Get Started"
+        "title": "Getting Started"
     },
     "branding": {
         "title": "Branding"
-    },
-    "colors": {
-        "title": "Color Schemes"
-    },
-    "components": {
-        "title": "Components"
-    },
-    "typography": {
-        "title": "Typography"
-    },
-    "layout-design": {
-        "title": "Layout Design"
     }
 }

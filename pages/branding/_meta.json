@@ -1,3 +1,10 @@
 {
-    "index": "Basics"
+    "basics": "Basics",
+    "principles": "Principles",
+    "colors": "Colors",
+    "typography": "Typography",
+    "inclusion": "Inclusion",
+    "layout": "Layout",
+    "icons": "Icons",
+    "images": "Images"
 }
