@@ -1,3 +1,21 @@
 {
-    "index": "Introduction"
+    "index": "Introduction",
+    "about": {
+        "title": "Blogs",
+        "type": "page",
+        "href": "https://blog.emmanuel.codes",
+        "newWindow": true
+    },
+    "colors": {
+        "title": "Color Schemes"
+    },
+    "components": {
+        "title": "Components"
+    },
+    "typography": {
+        "title": "Typography"
+    },
+    "layout-design": {
+        "title": "Layout Design"
+    }
 }
