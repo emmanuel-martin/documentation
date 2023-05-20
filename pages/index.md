@@ -2,7 +2,7 @@
 
 Learn how to design great web apps.
 
-You'll be learning about 
+### Table of contents 
 
 > - [Branding](/branding/basics)
 > - [Color Schemes](/branding/colors)
@@ -11,6 +11,6 @@ You'll be learning about
 > - [Layout Design](/branding/layout-design)
 
 
-## Blogs
+### Blogs
 
 Also Checkout my blog site at [blog.emmanuel.codes](https://blog.emmanuel.codes)

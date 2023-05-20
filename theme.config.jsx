@@ -4,9 +4,6 @@ import { useRouter } from 'next/router'
 
 export default {
   logo: <span><b>Guides</b> | <span style={{fontSize: '12px'}}>Emmanuel Martin.</span></span>,
-  project: {
-    link: 'https://github.com/emmanuel-martin/documentation/tree/main/pages',
-  },
   nextLinks: true,
   prevLinks: true,
   docsRepositoryBase: 'https://github.com/emmanuel-martin/documentation/tree/main/pages',
