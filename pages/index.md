@@ -4,11 +4,11 @@ Learn how to design great web apps.
 
 ### Table of contents 
 
-> - [Branding](/branding/basics)
-> - [Color Schemes](/branding/colors)
-> - [Components](/branding/components)
-> - [Typography](/branding/typography)
-> - [Layout Design](/branding/layout-design)
+- [Branding](/branding/basics)
+- [Color Schemes](/branding/colors)
+- [Components](/branding/components)
+- [Typography](/branding/typography)
+- [Layout Design](/branding/layout)
 
 
 ### Blogs
