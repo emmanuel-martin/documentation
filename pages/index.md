@@ -1,12 +1,15 @@
-# Welcome to Guides 
+## Welcome to Guides 
 
 Learn how to design great web apps.
 
 You'll be learning about 
 
-[Typography](/typography)
+> - [Branding](/branding)
+> - [Color Schemes](/colors)
+> - [Components](/components)
+> - [Typography](/typography)
+> - [Layout Design](/layout-design)
 
-## Credits
 
 ## Blogs
 

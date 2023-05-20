@@ -6,6 +6,9 @@
         "href": "https://blog.emmanuel.codes",
         "newWindow": true
     },
+    "branding": {
+        "title": "Branding"
+    },
     "colors": {
         "title": "Color Schemes"
     },
