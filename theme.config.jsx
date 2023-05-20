@@ -16,6 +16,10 @@ export default {
       return {
         titleTemplate: '%s – Emmanuel Martin'
       }
+    }else{
+      return {
+        titleTemplate: 'Guides - Emmanuel Martin'
+      }
     }
   },
   head: () => {
