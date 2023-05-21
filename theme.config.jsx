@@ -23,13 +23,13 @@ export default {
     const { asPath, defaultLocale, locale } = useRouter()
     const { frontMatter } = useConfig()
     const url =
-      'https://guide.emmanuel.codes' +
+      'https://guides.emmanuel.codes' +
       (defaultLocale === locale ? asPath : `/${locale}${asPath}`)
  
     return (
       <>
         <meta property="og:url" content={url} />
-        <meta property="og:title" content={frontMatter.title || 'Emmanuel Martin - Design Documentation'} />
+        <meta property="og:title" content={frontMatter.title || 'Guides - Find best documentation for designing web apps'} />
         <meta
           property="og:description"
           content={frontMatter.description || 'Find documentation and resources for designing great apps.'}
